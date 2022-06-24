@@ -15,3 +15,5 @@ _________________________________
 - The calculator should be able to perform basic operations like Addition, Subtraction, Multiplication, & Division  
   
 [task88_arithmetic_calculator.js](https://github.com/4dbyron/zuri_week6/blob/main/task88_arithmetic_calculator.js)
+  
+### [Check Out The Hosted Version](https://4dbyron.github.io/basic_calc/task88_arithmetic_calculator.html)
